@@ -1,2 +1,3 @@
-# hello-world1
+# hello-world
 extra credit opportunity
+Hello, this is briana shannon
